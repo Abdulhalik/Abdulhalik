@@ -1,11 +1,11 @@
 ![image](https://github.com/Abdulhalik/Abdulhalik/blob/master/dino.gif)
 
 ### 👋 Hi there 
-I am a junior computer science engineer and have some experience in working on Mobile and Backend stacks 👨‍💻. Interested in learning new things and also making life easier by supporting Open Source Community. Fascinated about nature.
+I am a junior computer science engineer and have some experience in working on Mobile and Backend Stacks 👨‍💻. Interested in learning new things and also making life easier by supporting Open Source Community. Fascinated about nature.
 
 
 - 🔭 I’m currently working on JAVA, NodeJS, Swift and Python 4 Data Science.
-- 🌱 I’m currently learning competitive coding.
+- 🌱 I’m currently learning DL/NLP/NER Techs for my side project.
 - ⚡  Available for Freelance projects opportunities.
 
 ### 📫 Reach me at 

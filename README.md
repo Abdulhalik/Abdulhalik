@@ -1,11 +1,20 @@
 ![image](https://github.com/Abdulhalik/Abdulhalik/blob/master/dino.gif)
 
 ### 👋 Hi there 
-I am a junior computer science engineer and have some experience in working on Mobile and Backend Stacks 👨‍💻. Interested in learning new things and also making life easier by supporting Open Source Community. Fascinated about nature.
 
+I am a software engineer and have professional experience in:
 
--  🔭  I’m currently working on iOS Frameworks, Swift, Objc, SwiftUI.
--  🌱  I’m currently learning Unity 3D Game Development.
+ * Swift, iOS Frameworks, General mobile landscape, architectures and and design patterns, Client/Server Communications ie.
+ * Backend development with Node.js.
+ 
+ 
+And also have personal and educational projects in:
+ * NLP/NER based DL Project (Extracting Brands from Turkish Text)
+ * Web scrapping with Python.
+ * Unity 3D Hyper Casual Game Development
+
+-  🔭  I’m currently working on iOS Development (FT) and hypercasual mobile game development (PT).
+-  🌱  I’m currently improving myself about Unity 3D Game Development.
 -  ⚡   Fun fact: I like all areas of art. Including the eighth one. 
 -  💻  Available for Freelance projects opportunities.
 
